@@ -14,10 +14,11 @@ module.exports = {
         src: 'img/logo.svg',
       },
       links: [
+        {to: 'about', label:'About Me', position: 'left'},
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Content',
+          label: 'Articles and Talks',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
