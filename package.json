@@ -1,9 +1,0 @@
-{
-  "name": "jgibson2019.github.io",
-  "version": "1.0.0",
-  "description": "personal website",
-  "main": "index.js",
-  "repository": "https://github.com/jgibson2019/jgibson2019.github.io",
-  "author": "JGibson2019 <jacqueline.gibson@utexas.edu>",
-  "license": "MIT"
-}
