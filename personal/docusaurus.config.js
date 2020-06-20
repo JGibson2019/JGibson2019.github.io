@@ -2,7 +2,7 @@ module.exports = {
   title: 'Jacqueline',
   tagline: 'Software Engineer, Digital Equity Advocate, Pop Culture Encyclopedia',
   url: 'https://jgibson2019.github.io',
-  baseUrl: '/',
+  baseUrl: '/jgibson2019.github.io/',
   favicon: 'img/favicon.ico',
   organizationName: 'JGibson2019', // Usually your GitHub org/user name.
   projectName: 'JGibson2019.github.io', // Usually your repo name.
