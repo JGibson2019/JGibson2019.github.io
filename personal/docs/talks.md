@@ -9,7 +9,7 @@ One of the best ways to advocate for the subjects I'm passionate about is by giv
 Presented this at the 2020 Juneteenth Conference. I 
 discussed the ways that anti-Blackness is replicated in technology, the discrepancies faced by Black communities due to the digital divide, and the changes required for us to have a more equitable future.
 
-Here is a link to [a recording of the talk.](https://twitter.com/this_is_jcg) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qzc6D8NZo-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Miscellaneous
 ### 2019 College of Natural Sciences Commencement
