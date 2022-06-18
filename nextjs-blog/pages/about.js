@@ -1,14 +1,14 @@
 import Link from 'next/link';
-import Head from 'next/head'
+import Head from 'next/head';
+import Layout from '../components/layout';
 
 
 export default function AboutMe() {
     return (
-    <div className="container">
+    <Layout>
         <Head>
             <title>About Jacqueline</title>
         </Head>
-        <main>
             <h1>Some basic information about me</h1>
             <p>I'm a Digital Equity Advocate &amp; Software Engineer building change from the code up. I'm interested in leveraging technology for social good, particularly identifying ways in which current technology maintains social inequities and working to eliminate these biases. Ultimately, I strive to understand what is necessary to create systems that everyone, regardless of ability, can use with ease.</p>
             
@@ -19,6 +19,5 @@ export default function AboutMe() {
                     <a>Back to home</a>
                 </Link>
             </h2>
-        </main>
-    </div>);
+    </Layout>);
   }
