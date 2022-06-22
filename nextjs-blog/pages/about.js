@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Head from 'next/head';
 import Layout from '../components/layout';
+import utilStyles from '../styles/utils.module.css';
 
 
 export default function AboutMe() {
@@ -9,7 +10,7 @@ export default function AboutMe() {
         <Head>
             <title>About Jacqueline</title>
         </Head>
-            <h1>Some basic information about me</h1>
+            <h1 className={utilStyles.emphasizeText}>Some basic information about me</h1>
             <p>I'm a Digital Equity Advocate &amp; Software Engineer building change from the code up. I'm interested in leveraging technology for social good, particularly identifying ways in which current technology maintains social inequities and working to eliminate these biases. Ultimately, I strive to understand what is necessary to create systems that everyone, regardless of ability, can use with ease.</p>
 
             <p>For undergrad, I attended The University of Texas at Austin, where I was advised by Professor Simone Browne and mentored by Professor Alison Norman. I graduated with dual degrees in Computer Science and African &amp; African Diaspora Studies; I also completed a minor in Human Computer Interaction.</p>

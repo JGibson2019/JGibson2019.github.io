@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Layout from '../components/layout';
+import utilStyles from '../styles/utils.module.css';
 
 
 export default function Articles() {
@@ -8,7 +9,7 @@ export default function Articles() {
         <Head>
             <title>Articles | Jacqueline</title>
         </Head>
-            <h1>Articles</h1>
+            <h1 className={utilStyles.emphasizeText}>Articles</h1>
                 <h2>Articles/Blog posts I've written</h2>
                     <h3><a href="https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-for-web/">Accessibility Insights for Web</a></h3>
                         <p>This article written for the Engineering@Microsoft blog introduces users to the Accessibility Insights for Web extension</p>

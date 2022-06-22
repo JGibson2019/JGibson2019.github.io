@@ -9,7 +9,7 @@ export default function Talks() {
         <Head>
             <title>Talks | Jacqueline</title>
         </Head>
-            <h1>Talks and Podcasts</h1>
+            <h1 className={utilStyles.emphasizeText}>Talks and Podcasts</h1>
             <p>One of the best ways to advocate for the subjects I'm passionate about is by giving a talk (or two)! While I'm still new to the conference circuit, here are some of the talks I've given grouped by the topics they relate to:</p>
             <h2>Race and Technology</h2>
             <h3>For Us, Without Us: Addressing Tech's Shortcomings in Creating Equity for Black People</h3>
