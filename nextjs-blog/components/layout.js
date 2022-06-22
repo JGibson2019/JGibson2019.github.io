@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Jacqueline';
+const name = 'Jacqueline Gibson';
 export const siteTitle = 'Jacqueline Gibson';
 
 export default function Layout({ children, home }) {
@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
               width={144}
               alt={name}
             />
-            <h1 className={utilStyles.heading2Xl}>Hey, I'm {name}!</h1>
+            <h1 className={utilStyles.heading2Xl}>Hey, I'm <span className={utilStyles.emphasizeText}>{name}</span>!</h1>
           </>
         ) : (
           <>

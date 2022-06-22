@@ -10,20 +10,20 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey, I'm <strong>Jacqueline</strong>! I'm a software engineer, CS grad student, and a digital equity advocate building change from the code up.</p>
+        <p>I'm a software engineer, CS grad student, and a digital equity advocate building change from the code up.</p>
         
         <p className="description">
-          You can click here to learn more{' '}
+          For basic information, check out my{' '}
             <Link href="/about">
-              <a>about me!</a>
-            </Link>{' '} 
+              <a>about me</a>
+            </Link> section! 
               I also have links to{' '}
               <Link href="/articles">
                 <a>some of the articles I've been featured in/written</a>
               </Link> {' '}as well as{' '} 
               <Link href="/talks">
                 <a>some of the most interesting talks I've delivered</a>
-              </Link>
+              </Link>.
         </p>
 
         <h2>Latest Updates</h2>

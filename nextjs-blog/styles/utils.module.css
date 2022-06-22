@@ -24,6 +24,10 @@
     font-size: 1.2rem;
     line-height: 1.5;
   }
+
+  .emphasizeText {
+      color: #990000;
+  }
   
   .borderCircle {
     border-radius: 9999px;
@@ -48,5 +52,5 @@
   }
   
   .lightText {
-    color: #666;
+    color: #625D5D;
   }
