@@ -54,3 +54,13 @@
   .lightText {
     color: #625D5D;
   }
+
+  .vidFrame {
+      width: 600px;
+      height: 350px;
+  }
+
+  .spotifyFrame {
+      width: 600px;
+      height: 150px;
+  }
