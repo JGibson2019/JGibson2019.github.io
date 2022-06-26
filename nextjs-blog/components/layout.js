@@ -23,7 +23,7 @@ export default function Layout({ children, home }) {
           <>
             <img 
                 priority="true"
-                src="/images/pearls_crop.jpg"
+                src="https://i.ibb.co/d5d9xmH/pearls-crop.jpg"
                 className={utilStyles.borderCircle}
                 height={144}
                 width={144}
@@ -37,7 +37,7 @@ export default function Layout({ children, home }) {
               <a>
                 <img
                   priority="true"
-                  src="/images/pearls_crop.jpg"
+                  src="https://i.ibb.co/d5d9xmH/pearls-crop.jpg"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
