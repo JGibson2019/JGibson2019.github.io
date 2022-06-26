@@ -2,7 +2,6 @@ import Head from 'next/head';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
-import { prefix } from './prefix';
 
 const name = 'Jacqueline Gibson';
 export const siteTitle = 'Jacqueline Gibson';
@@ -24,7 +23,7 @@ export default function Layout({ children, home }) {
           <>
             <img 
                 priority="true"
-                src={`${prefix}/images/pearls_crop.jpg`}
+                src="/images/pearls_crop.jpg"
                 className={utilStyles.borderCircle}
                 height={144}
                 width={144}
@@ -38,7 +37,7 @@ export default function Layout({ children, home }) {
               <a>
                 <img
                   priority="true"
-                  src={`${prefix}/images/pearls_crop.jpg`}
+                  src="/images/pearls_crop.jpg"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}

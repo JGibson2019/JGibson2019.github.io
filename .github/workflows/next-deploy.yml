@@ -12,9 +12,6 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    env:
-      NEXT_PUBLIC_BASE_PATH: /JGibson2019.github.io
-
     strategy:
       matrix:
         node-version: [16.x]
