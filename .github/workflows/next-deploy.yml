@@ -16,7 +16,7 @@ jobs:
         working-directory: ./nextjs-blog
 
     env:
-      NEXT_PUBLIC_BASE_PATH: /JGibson2019.github.io/nextjs-blog
+      NEXT_PUBLIC_BASE_PATH: /JGibson2019.github.io
 
     strategy:
       matrix:
