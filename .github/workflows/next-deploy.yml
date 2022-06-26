@@ -27,6 +27,7 @@ jobs:
         cache: 'npm'
         cache-dependency-path: nextjs-blog/package-lock.json
     - name: Install packages
+      working-directory: ./nextjs-blog
       run: npm ci
     - name: Build project
       run: npm run build
