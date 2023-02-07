@@ -27,10 +27,13 @@ export default function Home() {
         </p>
 
         <h2 className={utilStyles.emphasizeText}>Latest Updates</h2>
+          <p>January 2023 - Presented at <a href="https://day.umbraco.community/">2023 Umbraco Community Day</a> 
+          I'll update my <Link href="/talks">
+                <a>talks page</a>
+              </Link> once I can track down a recording!</p>
           <p>June 2022 - Started my summer research position with the <a href="https://ceal.cs.columbia.edu/">CEAL Lab</a></p>
           <p>May 2022 - <a href="https://knowbility.org/programs/accessu-2022/accessibility-insights-web-and-android-development-with-accessibility-in-mind">I led a live workshop at the 2022 John Slatin AccessU Conference</a> where we taught participants how to find and fix common web and Android accessibility issues</p>
           <p>February 2022 - Published a <a href="https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-for-web/">dev article about Accessibility Insights for Web</a> for the Engineering@Microsoft blog</p>
-          <p>December 2021 - Presented at the <a href="https://techa11y.dev/">2021 Tech A11y Summit</a></p>      
       </section>
     </Layout>
   );
