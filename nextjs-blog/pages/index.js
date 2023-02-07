@@ -27,8 +27,7 @@ export default function Home() {
         </p>
 
         <h2 className={utilStyles.emphasizeText}>Latest Updates</h2>
-          <p>January 2023 - Presented at <a href="https://day.umbraco.community/">2023 Umbraco Community Day</a> 
-          I'll update my <Link href="/talks">
+          <p>January 2023 - Presented at <a href="https://day.umbraco.community/">2023 Umbraco Community Day</a>! I'll update my <Link href="/talks">
                 <a>talks page</a>
               </Link> once I can track down a recording!</p>
           <p>June 2022 - Started my summer research position with the <a href="https://ceal.cs.columbia.edu/">CEAL Lab</a></p>
