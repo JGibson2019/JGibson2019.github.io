@@ -16,7 +16,9 @@ export default function Home() {
                 I care deeply about innovation, continuous learning, and raising the technical bar - not just within my team, but across organizations by developing standards, shared platforms, and driving cross-team impact. 
                 Simply put, I am the kind of engineer you bring in when you need clarity, momentum, and delivered results.</p>
 
-        <p>Interested in the code I write? Check out my public GitHub profile <a href="https://github.com/JGibson2019">here</a>. <small><i>Note: the bulk of my Open Source contributions stop after 2024; the majority of my recent commits are internal only.</i></small></p>
+        <p>Interested in the code I write? Check out my public GitHub profile <a href="https://github.com/JGibson2019">here</a>.</p>
+
+        <p><small><i>Note: the bulk of my Open Source contributions stop after 2024; the majority of my recent commits are internal only.</i></small></p>
 
 
         <p className="description">
