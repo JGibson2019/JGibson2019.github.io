@@ -10,7 +10,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm a software engineer, CS grad student, and a digital equity advocate building change from the code up.</p>
+        <p>I'm a senior software engineer, recovering CS grad student, and a digital equity advocate building change from the code up.</p>
         
         <p className="description">
           For basic information, check out my{' '}
@@ -27,12 +27,10 @@ export default function Home() {
         </p>
 
         <h2 className={utilStyles.emphasizeText}>Latest Updates</h2>
-          <p>January 2023 - Presented at <a href="https://day.umbraco.community/">2023 Umbraco Community Day</a>! I'll update my <Link href="/talks">
-                <a>talks page</a>
-              </Link> once I can track down a recording!</p>
-          <p>June 2022 - Started my summer research position with the <a href="https://ceal.cs.columbia.edu/">CEAL Lab</a></p>
-          <p>May 2022 - <a href="https://knowbility.org/programs/accessu-2022/accessibility-insights-web-and-android-development-with-accessibility-in-mind">I led a live workshop at the 2022 John Slatin AccessU Conference</a> where we taught participants how to find and fix common web and Android accessibility issues</p>
-          <p>February 2022 - Published a <a href="https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-for-web/">dev article about Accessibility Insights for Web</a> for the Engineering@Microsoft blog</p>
+          <p>September 2025 - I was appointed to the Forty Acres Council, the board for the <a href="https://www.texasexes.org/give/giving-societies/forty-acres-society">Forty Acres Society</a></p>
+          <p>January 2025 - <a href="https://www.ursulinedallas.org/home-page-news/~board/alumnae-awardees/post/young-alumna-2025">I was named the Ursuline Academy of Dallas Young Alumnae of the year and inducted into the Hall of Honor.</a></p>
+          <p>September 2024 - Appointed to the Ursuline Academy of Dallas Development Board</p>
+          <p>March 2024 - <a href="https://arxiv.org/pdf/2403.08221">We were published at CHI!</a> I worked on this project my last summmer in grad school and I'm so excited to see it out in the world!</p>
       </section>
     </Layout>
   );
