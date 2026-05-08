@@ -18,7 +18,7 @@ export default function Home() {
 
         <p>Interested in the code I write? Check out my public GitHub profile <a href="https://github.com/JGibson2019">here</a>.</p>
 
-        <p><small><i>Note: the bulk of my Open Source contributions stop after 2024; the majority of my recent commits are internal only.</i></small></p>
+        <p className={utilStyles.profileNote}>Note: the bulk of my Open Source contributions stop after 2024; the majority of my recent commits are internal only.</p>
 
 
         <p className="description">
