@@ -41,12 +41,6 @@ export default function Home() {
           <p>September 2024 - I was invited to join the Ursuline Academy of Dallas Development Board</p>
           <p>May 2024 - Graduated with my M.S. in Computer Science from Columbia University. Roar, Lion, Roar!</p>
           <p>March 2024 - <a href="https://arxiv.org/pdf/2403.08221">We were published at CHI!</a> I worked on this project my last summmer in grad school and I'm so excited to see it out in the world!</p>
-          <p>January 2023 - Presented at <a href="https://day.umbraco.community/">2023 Umbraco Community Day</a>! I'll update my <Link href="/talks">
-                <a>talks page</a>
-              </Link> once I can track down a recording!</p>
-          <p>June 2022 - Started my summer research position with the <a href="https://ceal.cs.columbia.edu/">CEAL Lab</a></p>
-          <p>May 2022 - <a href="https://knowbility.org/programs/accessu-2022/accessibility-insights-web-and-android-development-with-accessibility-in-mind">I led a live workshop at the 2022 John Slatin AccessU Conference</a> where we taught participants how to find and fix common web and Android accessibility issues</p>
-          <p>February 2022 - Published a <a href="https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-for-web/">dev article about Accessibility Insights for Web</a> for the Engineering@Microsoft blog</p>
       </section>
     </Layout>
   );
