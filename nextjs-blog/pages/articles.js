@@ -10,7 +10,12 @@ export default function Articles() {
             <title>Articles | Jacqueline</title>
         </Head>
             <h1 className={utilStyles.emphasizeText}>Articles</h1>
+                <h2>Academic Papers and Articles I've authored/co-authored</h2>
+                    <h3><a href="https://arxiv.org/pdf/2403.08221">"Help Supporters: Exploring the Design Space of Assistive Technologies to Support Face-to-Face Help Between Blind and Sighted Strangers"</a></h3>
+                        <p>Published at CHI 2024, this paper explores the design space of assistive technologies to support face-to-face help between blind and sighted strangers. I worked on this project during my last summer in grad school and I'm so excited to see it out in the world!</p>
                 <h2>Articles/Blog posts I've written</h2>
+                    <h3><a href="https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-now-supports-wcag-2-2-aa/">Accessibility Insights now supports WCAG 2.2 AA</a></h3>
+                        <p>This article written for the Engineering@Microsoft blog introduces our tool's coverage of WCAG 2.2, the most up to date W3C standard for web accessibility. This was an engineering effort I helped drive during the bulk of 2023, and I'm excited to help teams get even more coverage for their accessibility testing.</p>
                     <h3><a href="https://devblogs.microsoft.com/engineering-at-microsoft/accessibility-insights-for-web/">Accessibility Insights for Web</a></h3>
                         <p>This article written for the Engineering@Microsoft blog introduces users to the Accessibility Insights for Web extension</p>
                     <h3><a href="https://peopleofcolorintech.com/articles/know-your-worth-a-black-girls-guide-to-negotiating-your-first-salary/">Know Your Worth: A Black Girl's Guide to Negotiating Your First Salary</a></h3>

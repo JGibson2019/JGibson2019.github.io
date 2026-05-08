@@ -28,6 +28,19 @@
   .emphasizeText {
       color: #E7022C;
   }
+
+  .profileNote {
+    display: inline-block;
+    margin-top: -0.35rem;
+    margin-bottom: 1rem;
+    padding: 0.2rem 0.45rem;
+    background: #000000;
+    border-left: 3px solid #000000;
+    color: #ffffff;
+    font-size: 0.85rem;
+    font-style: italic;
+    line-height: 1.4;
+  }
   
   .borderCircle {
     border-radius: 9999px;
